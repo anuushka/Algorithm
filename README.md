@@ -1,3 +1,2 @@
-# Algorithm
-Problems
-Algo-first branch
+# Algorithm (problems)
+Branch: Algo-first 
